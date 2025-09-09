@@ -5,7 +5,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "pxt-kitronik-lampbit": "github:kitronikltd/pxt-kitronik-lampbit#V1.0.6"
+        "Mise en situation - Eclairage résidence": "github:chaabane72/mise-en-situation---eclairage-rsidence#fe04ac107ab6564423762c82476c6af4ca1fc992"
     },
     "files": [
         "main.blocks",
